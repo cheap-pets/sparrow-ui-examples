@@ -1,0 +1,38 @@
+{
+  "name": "sparrow-ui-examples",
+  "version": "0.1.0",
+  "description": "examples of sparrow-css, sparrow-popup & sparrow-claw",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheap-pets/sparrow-ui-examples.git"
+  },
+  "keywords": [
+    "sparrow-ui",
+    "sparrow-css"
+  ],
+  "author": "scrollbar-ww",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheap-pets/sparrow-ui-examples/issues"
+  },
+  "homepage": "https://github.com/cheap-pets/sparrow-ui-examples#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "normalize.css": "^8.0.0",
+    "sparrow-css": "^0.1.5",
+    "sparrow-packer": "^0.2.1",
+    "sparrow-popup": "^1.0.2"
+  }
+}
