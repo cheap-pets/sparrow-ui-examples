@@ -31,8 +31,9 @@
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.6.1",
     "normalize.css": "^8.0.0",
-    "sparrow-css": "^0.1.5",
-    "sparrow-packer": "^0.2.1",
-    "sparrow-popup": "^1.0.2"
+    "sparrow-calendar": "^0.1.0",
+    "sparrow-css": "^0.1.13",
+    "sparrow-packer": "^0.3.7",
+    "sparrow-popup": "^1.0.5"
   }
 }
